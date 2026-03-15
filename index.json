@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-03-15T08:55:56.829Z",
+  "generatedAt": "2026-03-15T09:34:57.586Z",
   "writeups": [
+    {
+      "slug": [
+        "HKCERT CTF 2025",
+        "crypto",
+        "Bivariate Copper"
+      ],
+      "event": "HKCERT CTF 2025",
+      "category": "crypto",
+      "title": "Bivariate Copper",
+      "path": "HKCERT CTF 2025/crypto/Bivariate Copper.md",
+      "createdAt": "2026-03-15T09:34:17Z",
+      "lastModified": "2026-03-15T09:34:17Z"
+    },
+    {
+      "slug": [
+        "picoCTF 2022",
+        "crypto",
+        "Sequences"
+      ],
+      "event": "picoCTF 2022",
+      "category": "crypto",
+      "title": "Sequences",
+      "path": "picoCTF 2022/crypto/Sequences.md",
+      "createdAt": "2026-03-15T09:34:17Z",
+      "lastModified": "2026-03-15T09:34:17Z"
+    },
     {
       "slug": [
         "HKUST Firebird CTF 2026",
