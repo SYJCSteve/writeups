@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-03-16T07:49:53.577Z",
+  "generatedAt": "2026-03-16T10:59:58.325Z",
   "writeups": [
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "crypto",
+        "Noisy Lucky Number"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "crypto",
+      "title": "Noisy Lucky Number",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/crypto/Noisy Lucky Number.md",
+      "createdAt": "2026-03-16T08:47:04Z",
+      "lastModified": "2026-03-16T08:47:04Z",
+      "writer": "SYJCSteve",
+      "nickname": "steve"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "crypto",
+        "Vulnerable DHKE"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "crypto",
+      "title": "Vulnerable DHKE",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/crypto/Vulnerable DHKE.md",
+      "createdAt": "2026-03-16T08:47:04Z",
+      "lastModified": "2026-03-16T08:47:04Z",
+      "writer": "SYJCSteve",
+      "nickname": "steve"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "forensics",
+        "Wheres the APT Attack mini 1 - AntiVirus Software Alert "
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "forensics",
+      "title": "Wheres the APT Attack mini 1 - AntiVirus Software Alert ",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/forensics/Wheres the APT Attack mini 1 - AntiVirus Software Alert .md",
+      "createdAt": "2026-03-16T08:47:04Z",
+      "lastModified": "2026-03-16T08:47:04Z",
+      "writer": "SYJCSteve",
+      "nickname": "steve"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "rev",
+        "License 2.0"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "rev",
+      "title": "License 2.0",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/rev/License 2.0.md",
+      "createdAt": "2026-03-16T08:47:04Z",
+      "lastModified": "2026-03-16T08:47:04Z",
+      "writer": "SYJCSteve",
+      "nickname": "steve"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "rev",
+        "catfish"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "rev",
+      "title": "catfish",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/rev/catfish.md",
+      "createdAt": "2026-03-16T08:47:04Z",
+      "lastModified": "2026-03-16T08:47:04Z",
+      "writer": "SYJCSteve",
+      "nickname": "steve"
+    },
     {
       "slug": [
         "PolyU x NuttyShell Cybersecurity CTF 2026",
