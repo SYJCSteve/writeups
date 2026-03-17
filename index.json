@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-16T10:59:58.325Z",
+  "generatedAt": "2026-03-17T09:12:44.312Z",
   "writeups": [
+    {
+      "slug": [
+        "picoCTF 2019",
+        "Forensics",
+        "Investigative Reversing 0"
+      ],
+      "event": "picoCTF 2019",
+      "category": "Forensics",
+      "title": "Investigative Reversing 0",
+      "path": "picoCTF 2019/Forensics/Investigative Reversing 0.md",
+      "createdAt": "2026-03-17T09:12:27Z",
+      "lastModified": "2026-03-17T09:12:27Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
     {
       "slug": [
         "PolyU x NuttyShell Cybersecurity CTF 2026",
