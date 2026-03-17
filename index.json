@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-03-17T11:03:52.700Z",
+  "generatedAt": "2026-03-17T12:00:15.027Z",
   "writeups": [
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 2"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 2",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 2.md",
+      "createdAt": "2026-03-17T11:59:58Z",
+      "lastModified": "2026-03-17T11:59:58Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 3"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 3",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 3.md",
+      "createdAt": "2026-03-17T11:59:58Z",
+      "lastModified": "2026-03-17T11:59:58Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 4"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 4",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 4.md",
+      "createdAt": "2026-03-17T11:59:58Z",
+      "lastModified": "2026-03-17T11:59:58Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
     {
       "slug": [
         "picoCTF 2019",
