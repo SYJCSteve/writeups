@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-03-23T03:03:03.752Z",
+  "generatedAt": "2026-03-30T02:17:51.453Z",
   "writeups": [
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "ai",
+        "good_k1k1_bad_k1k1"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "ai",
+      "title": "good_k1k1_bad_k1k1",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/ai/good_k1k1_bad_k1k1.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "forensics",
+        "The_Secret_of_The_Emanator_of_Elation"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "forensics",
+      "title": "The_Secret_of_The_Emanator_of_Elation",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/forensics/The_Secret_of_The_Emanator_of_Elation.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "pen",
+        "It_Takes_Two"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "pen",
+      "title": "It_Takes_Two",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/pen/It_Takes_Two.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "rev",
+        "EncryptFile"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "rev",
+      "title": "EncryptFile",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/rev/EncryptFile.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "web",
+        "Leaky_Revenge"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "web",
+      "title": "Leaky_Revenge",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/web/Leaky_Revenge.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
     {
       "slug": [
         "picoCTF 2026",
