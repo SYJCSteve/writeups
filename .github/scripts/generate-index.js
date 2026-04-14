@@ -74,7 +74,7 @@ async function fetchAllFiles() {
 
   // Filter only markdown files (blobs only, not submodules or symlinks)
   const mdFiles = data.tree
-    .filter(item => item.type === 'blob' && item.path.endsWith('.md'))
+    .filter(item => item.type === 'blob' && item.path.endsWith('.md') && !item.path.endsWith('README.md'))
     .map(item => item.path);
 
   console.log(`Found ${mdFiles.length} markdown files`);

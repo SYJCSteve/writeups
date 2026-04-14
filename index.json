@@ -1,6 +1,411 @@
 {
-  "generatedAt": "2026-03-16T10:59:58.325Z",
+  "generatedAt": "2026-03-30T13:46:24.069Z",
   "writeups": [
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "crypto",
+        "Basic XOR Knowledge"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "crypto",
+      "title": "Basic XOR Knowledge",
+      "path": "PolyU FYP CTF 2026/crypto/Basic XOR Knowledge.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "crypto",
+        "Counter Erasers"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "crypto",
+      "title": "Counter Erasers",
+      "path": "PolyU FYP CTF 2026/crypto/Counter Erasers.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "crypto",
+        "Extended Magazines"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "crypto",
+      "title": "Extended Magazines",
+      "path": "PolyU FYP CTF 2026/crypto/Extended Magazines.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "crypto",
+        "Visual Approach"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "crypto",
+      "title": "Visual Approach",
+      "path": "PolyU FYP CTF 2026/crypto/Visual Approach.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "misc",
+        "Flag Eraser 2"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "misc",
+      "title": "Flag Eraser 2",
+      "path": "PolyU FYP CTF 2026/misc/Flag Eraser 2.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "pwn",
+        "Boundaryless"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "pwn",
+      "title": "Boundaryless",
+      "path": "PolyU FYP CTF 2026/pwn/Boundaryless.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "pwn",
+        "Confused"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "pwn",
+      "title": "Confused",
+      "path": "PolyU FYP CTF 2026/pwn/Confused.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "pwn",
+        "Logging Lover"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "pwn",
+      "title": "Logging Lover",
+      "path": "PolyU FYP CTF 2026/pwn/Logging Lover.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "pwn",
+        "Normalization"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "pwn",
+      "title": "Normalization",
+      "path": "PolyU FYP CTF 2026/pwn/Normalization.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "rev",
+        "2FA Token Generator"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "rev",
+      "title": "2FA Token Generator",
+      "path": "PolyU FYP CTF 2026/rev/2FA Token Generator.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "rev",
+        "License Please 2"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "rev",
+      "title": "License Please 2",
+      "path": "PolyU FYP CTF 2026/rev/License Please 2.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "rev",
+        "License Please"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "rev",
+      "title": "License Please",
+      "path": "PolyU FYP CTF 2026/rev/License Please.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "rev",
+        "Malware Analysis 101"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "rev",
+      "title": "Malware Analysis 101",
+      "path": "PolyU FYP CTF 2026/rev/Malware Analysis 101.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU FYP CTF 2026",
+        "web",
+        "Normalized Behaviour"
+      ],
+      "event": "PolyU FYP CTF 2026",
+      "category": "web",
+      "title": "Normalized Behaviour",
+      "path": "PolyU FYP CTF 2026/web/Normalized Behaviour.md",
+      "createdAt": "2026-03-30T13:45:54Z",
+      "lastModified": "2026-03-30T13:45:54Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "ai",
+        "good_k1k1_bad_k1k1"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "ai",
+      "title": "good_k1k1_bad_k1k1",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/ai/good_k1k1_bad_k1k1.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "forensics",
+        "The_Secret_of_The_Emanator_of_Elation"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "forensics",
+      "title": "The_Secret_of_The_Emanator_of_Elation",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/forensics/The_Secret_of_The_Emanator_of_Elation.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "pen",
+        "It_Takes_Two"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "pen",
+      "title": "It_Takes_Two",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/pen/It_Takes_Two.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "rev",
+        "EncryptFile"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "rev",
+      "title": "EncryptFile",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/rev/EncryptFile.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "PolyU x NuttyShell Cybersecurity CTF 2026",
+        "web",
+        "Leaky_Revenge"
+      ],
+      "event": "PolyU x NuttyShell Cybersecurity CTF 2026",
+      "category": "web",
+      "title": "Leaky_Revenge",
+      "path": "PolyU x NuttyShell Cybersecurity CTF 2026/web/Leaky_Revenge.md",
+      "createdAt": "2026-03-30T02:13:25Z",
+      "lastModified": "2026-03-30T02:13:25Z",
+      "writer": "dxinschool",
+      "nickname": "dxinschool"
+    },
+    {
+      "slug": [
+        "picoCTF 2026",
+        "rev",
+        "Secure Password Database"
+      ],
+      "event": "picoCTF 2026",
+      "category": "rev",
+      "title": "Secure Password Database",
+      "path": "picoCTF 2026/rev/Secure Password Database.md",
+      "createdAt": "2026-03-23T03:02:44Z",
+      "lastModified": "2026-03-23T03:02:44Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2023",
+        "forensics",
+        "Invisible WORDs"
+      ],
+      "event": "picoCTF 2023",
+      "category": "forensics",
+      "title": "Invisible WORDs",
+      "path": "picoCTF 2023/forensics/Invisible WORDs.md",
+      "createdAt": "2026-03-22T14:15:18Z",
+      "lastModified": "2026-03-22T14:15:18Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "Google CTF 2025",
+        "crypto",
+        "numerology"
+      ],
+      "event": "Google CTF 2025",
+      "category": "crypto",
+      "title": "numerology",
+      "path": "Google CTF 2025/crypto/numerology.md",
+      "createdAt": "2026-03-19T12:09:13Z",
+      "lastModified": "2026-03-19T12:09:13Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 2"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 2",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 2.md",
+      "createdAt": "2026-03-17T11:59:58Z",
+      "lastModified": "2026-03-17T11:59:58Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 3"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 3",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 3.md",
+      "createdAt": "2026-03-17T11:59:58Z",
+      "lastModified": "2026-03-17T11:59:58Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 4"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 4",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 4.md",
+      "createdAt": "2026-03-17T11:59:58Z",
+      "lastModified": "2026-03-17T11:59:58Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 1"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 1",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 1.md",
+      "createdAt": "2026-03-17T11:03:37Z",
+      "lastModified": "2026-03-17T11:03:37Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
+    {
+      "slug": [
+        "picoCTF 2019",
+        "forensics",
+        "Investigative Reversing 0"
+      ],
+      "event": "picoCTF 2019",
+      "category": "forensics",
+      "title": "Investigative Reversing 0",
+      "path": "picoCTF 2019/forensics/Investigative Reversing 0.md",
+      "createdAt": "2026-03-17T09:22:42Z",
+      "lastModified": "2026-03-17T09:22:42Z",
+      "writer": "timothy0509",
+      "nickname": "Timothy"
+    },
     {
       "slug": [
         "PolyU x NuttyShell Cybersecurity CTF 2026",
